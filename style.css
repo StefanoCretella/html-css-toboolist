@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Contenitore dell'immagine e del logo */
+.container{
+    width: 1200px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+/* Img logo */
+.img-logo{
+    vertical-align: middle; /* Allineamento in mezzo */
+}
+
+/* Span titolo del logo */
+.titolo-logo{
+    font-size: 50px; /* Grandezza del font */
+    height: 5000px;
+    vertical-align: middle; /* Allineamento in mezzo */
+}
