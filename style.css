@@ -1,6 +1,19 @@
 * {
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: white;
+}
+
+/* Header */
+header{
+    background-color: white;
+    border-bottom: 1px solid white;
+    height: 75px;
 }
 
 /* Contenitore dell'immagine e del logo */
